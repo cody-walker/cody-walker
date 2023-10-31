@@ -1,5 +1,3 @@
-<h1>Hi, I'm Cody! <a href="https://www.linkedin.com/in/walkerco/">Marketing Professional</a> and <a href="https://www.linkedin.com/in/walkerco/">Cybersecurity Student</a></h1>
-
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Duel Antivirus Configuration](https://github.com/wlkr-tejas-rngr/DuelAVConfig)</b>
