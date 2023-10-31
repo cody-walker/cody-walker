@@ -1,4 +1,4 @@
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>👨‍💻 Cybersecurity Projects:</h1>
 
 - <b>[Duel Antivirus Configuration](https://github.com/wlkr-tejas-rngr/DuelAVConfig)</b>
 
