@@ -1,4 +1,6 @@
-<h1>👨‍💻 Cybersecurity Projects:</h1>
+<h1>Howdy, I'm Cody! 👋  IT and Cybersecurity Professional</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Duel Antivirus Configuration](https://github.com/wlkr-tejas-rngr/DuelAVConfig)</b>
 
