@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Duel Antivirus Configuration](https://github.com/cody-walker/DuelAVConfig)</b>
-- <b>[Google Cybersecurity Professional Certificate Projects](https://github.com/cody-walker/GoogleCyberProCert)</b>
 
 
 <!--
