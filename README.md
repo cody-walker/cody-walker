@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Duel Antivirus Configuration](https://github.com/wlkr-tejas-rngr/DuelAVConfig)</b>
+- <b>Google Cybersecurity Professional Certificate Projects</b>
 
 
 <!--
