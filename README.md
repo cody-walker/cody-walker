@@ -1,4 +1,4 @@
-<h1>Howdy, I'm Cody! 👋  IT and Cybersecurity Professional</h1>
+<h1>Howdy, I'm Cody! 👋  IT, Cybersecurity, and Marketing Professional</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
