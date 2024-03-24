@@ -5,6 +5,11 @@
 - <b>[Duel Antivirus Configuration](https://github.com/cody-walker/DuelAVConfig)</b>
 
 
+<h2>💻 IT Projects:</h2>
+
+- <b>[Mac Photo Migration](https://github.com/cody-walker/PicMigration)</b>
+
+
 <!--
 **wlkr-tejas-rngr/wlkr-tejas-rngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
